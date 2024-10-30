@@ -9,22 +9,22 @@ sidebar:
 
     # Profile information
     name: Alexis Rico Serrano
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Desempleado
+    avatar: gato.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: alericser@alu.edu.gva.es
     phone: 618976823
     timezone: Europe/Spain # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     # linkedin: alandoe
     # xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
+    github: Alexisricoser
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -48,7 +48,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Videojuegos
           link:
 
         - item: Snowboarding
